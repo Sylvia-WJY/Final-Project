@@ -1,0 +1,13 @@
+# Packages We Used
+requests
+bs4
+json
+panda
+geopandas
+psycopg2
+shapely.geometry
+sqlalchemy
+sqlalchemy.schema 
+geoalchemy2 
+matplotlib.pyplot
+seaborn

@@ -11,3 +11,4 @@ sqlalchemy.schema
 geoalchemy2 
 matplotlib.pyplot
 seaborn
+unittest
